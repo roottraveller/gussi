@@ -1,6 +1,6 @@
 # gussi 
 
-Gussi is a Java based project which handle request from newborn.com
+Gussi is a Java based project which handle request from [newborn.com](http://newborn.com/)
 
 ## Installation
 
