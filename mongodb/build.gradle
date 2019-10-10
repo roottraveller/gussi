@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group = 'gussi'
+version = '1.0.0-SNAPSHOT'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.projectlombok:lombok:1.18.10'
+    annotationProcessor 'org.projectlombok:lombok:1.18.10'
+    compile 'org.mongodb:mongodb-driver-sync:3.11.0'
+
+    testCompile 'junit:junit:4.12'
+}
