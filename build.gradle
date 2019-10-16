@@ -1,0 +1,12 @@
+println '#####################################################################'
+println 'project.name=' + project.name
+println 'project.version=' + project.version
+println 'project.group=' + project.group
+println 'project.description=' + project.description
+println 'project.path=' + project.path
+println 'project.projectDir=' + project.projectDir
+println 'project.buildDir=' + project.buildDir
+println 'project.subprojects=' + project.subprojects
+println 'project.allprojects=' + project.allprojects
+println '#####################################################################'
+

@@ -1,4 +1,4 @@
-package com.newborn.gussi.domain;
+package com.gussi.domain;
 
 import lombok.Data;
 
@@ -9,6 +9,7 @@ public class User {
     private int userID;
     private String name;
     private String email;
+    private String passcode;
     private Date entryDate;
     private Date lastUpdated;
 }
