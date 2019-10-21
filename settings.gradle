@@ -12,9 +12,8 @@ pluginManagement {
 		}
 	}
 }
+
 rootProject.name = 'gussi'
 include 'domain'
-include 'mongodb'
 include 'service'
-include 'DD'
 

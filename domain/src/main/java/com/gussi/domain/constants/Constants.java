@@ -1,4 +1,4 @@
-package com.newborn.gussi.domain.constants;
+package com.gussi.domain.constants;
 
 /**
  * All constants for gussi should always defined here

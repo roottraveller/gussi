@@ -1,4 +1,4 @@
-package com.newborn.gussi;
+package com.gussi.service;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

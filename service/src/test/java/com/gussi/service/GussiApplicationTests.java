@@ -1,4 +1,4 @@
-package com.newborn.gussi;
+package com.gussi.service;
 
 import org.junit.Ignore;
 import org.junit.Test;
