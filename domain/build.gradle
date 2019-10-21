@@ -2,18 +2,18 @@ plugins {
     id 'java'
 }
 
+repositories {
+    mavenCentral()
+}
+
 group = 'gussi'
 version = '1.0.0-SNAPSHOT'
 sourceCompatibility = JavaVersion.VERSION_1_8
 targetCompatibility = JavaVersion.VERSION_1_8
 
-repositories {
-    mavenCentral()
-}
 
 dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
     compileOnly 'org.projectlombok:lombok:1.18.10'
     annotationProcessor 'org.projectlombok:lombok:1.18.10'
-
-    testCompile 'junit:junit:4.12'
 }

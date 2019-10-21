@@ -1,0 +1,10 @@
+
+
+# mongo
+mongodb.uri: "mongodb://localhost:27017"
+mongodb.dbname: "karma"
+mongodb.min.pool.size: 20
+mongodb.max.pool.size: 60
+mongodb.max.queue.wait.time: 100
+
+# redis
