@@ -1,5 +1,8 @@
 plugins {
+    id 'org.springframework.boot' version '2.1.9.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
     id 'java'
+    id 'application'
 }
 
 repositories {
@@ -10,7 +13,7 @@ group = 'gussi'
 version = '1.0.0-SNAPSHOT'
 sourceCompatibility = JavaVersion.VERSION_1_8
 targetCompatibility = JavaVersion.VERSION_1_8
-
+mainClassName = 'com.gussi.service.GussiApplication'
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
