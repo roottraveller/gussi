@@ -25,6 +25,6 @@ Please make sure to update tests as appropriate.
 
 
 
-![alt text](https://theburiedlife.com/the-original-list?raw=true)
+![https://theburiedlife.com/the-original-list](https://images.squarespace-cdn.com/content/v1/55187eede4b01178dd8799ab/1536884206101-XZ71F11TZ6O7GBNTM5X0/ke17ZwdGBToddI8pDm48kGEAVpiIsMe8oJVs4Gs-e9J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0o8OMvY5tuV_wqZQCqqStn4YSUg8NmxIFIS4mRP1u4gaYoDAxAmgKfSBuYao_LRYBg/the+buried+life+list.jpg?format=2500w?raw=true)
 
 
