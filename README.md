@@ -1,6 +1,8 @@
 # gussi 
 
-Gussi is a Java based project which handle request for [newborn.com](http://newborn.com/)
+Gussi is a Java based project which handle request for [newborn.com](http://newborn.com/). 
+This page list in short 100 Things you must do before you die and there voting form real life travellers and community members, blogs, attractions, etc in each city and there ranking, where to stay for solo bird, shoppings, food etc. 
+Just like stackoverflow.com kind
 
 ### Installation
 
